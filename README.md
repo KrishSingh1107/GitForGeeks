@@ -1,2 +1,2 @@
 # GitForGeeks
-I am  attending a sessiong of gfg3.o
+I am  attending a session of gfg3.o
